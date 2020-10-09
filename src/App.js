@@ -33,7 +33,7 @@ function App() {
                   Skills
                 </ListGroup.Item>
                 <ListGroup.Item style={{ textAlign: "center" }}>
-                  <a target="_blank" href="https://github.com/RogerMontilla">
+                  <a target="_blank" href="https://github.com/rogermontilla01">
                     <img src={process.env.PUBLIC_URL + "/github.svg"} width="30px" />
                   </a>
                   <a
