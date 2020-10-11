@@ -83,7 +83,7 @@ function App() {
                   </tr>
                   <tr>
                     <th>Date of Birth</th>
-                    <td>Dicember 29, 1988</td>
+                    <td>December 29, 1988</td>
                   </tr>
                   <tr>
                     <th>Address</th>
