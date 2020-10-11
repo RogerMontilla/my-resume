@@ -118,7 +118,7 @@ function App() {
           <hr></hr>
           <ul className="timeline">
             <li>
-              <h6 className="d-inline-block">TELECOMUNICATION ENGINEER</h6>
+              <h6 className="d-inline-block">TELECOMMUNICATIONS ENGINEER</h6>
               <a className="float-right">January 2005 to December 2010</a>
               <p>
                 Santa Maria University
@@ -183,12 +183,12 @@ function App() {
           <hr></hr>
           <ul className="timeline">
             <li>
-              <h6 className="d-inline-block">ENGLISH UPPER INTERMEDIA B2</h6>
+              <h6 className="d-inline-block">ENGLISH UPPER INTERMEDIATE B2</h6>
               <a href="#" className="float-right">
                 August 2020 to Present Time
               </a>
               <p>
-                Intitute Cambride
+                Intitute Cambridge
                 <br />
                 Buenos Aires, Argentina
               </p>
@@ -199,7 +199,7 @@ function App() {
                 August 21st 2020
               </a>
               <p>
-                Univeridad Tecnologina Nacional
+                Univeridad Tecnologica Nacional
                 <br />
                 Buenos Aires, Argentina
               </p>
@@ -210,13 +210,13 @@ function App() {
                 March 13th 2020
               </a>
               <p>
-                Univeridad Tecnologina Nacional
+                Univeridad Tecnologica Nacional
                 <br />
                 Buenos Aires, Argentina
               </p>
             </li>
             <li>
-              <h6 className="d-inline-block">CCNA 4: NETWOK CONNECTION</h6>
+              <h6 className="d-inline-block">CCNA 4: NETWORK CONNECTION</h6>
               <a href="#" className="float-right">
                 March 19th 2018
               </a>
