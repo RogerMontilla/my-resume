@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import Button from "react-bootstrap/Button";
 import Container from "react-bootstrap/Container";
 import { Card, Row, Col, ListGroup, ProgressBar, Breadcrumb, Image, Table } from "react-bootstrap";
 
@@ -69,7 +68,7 @@ function App() {
             I am a professional with over 9 years of experience in the telecommunications field and a new technology
             enthusiast. I headed the Implementations and Deployment Department for a mobile phone company, where I
             gained experience, knowledge, and technical skills. I enjoy working with free software and I have used Linux
-            since I had my first PC. Currently, I focus on networking and web development, with a strong interest in
+            since I had my first PC. Currently, I focus on networking and web development, with a strong interest in Backend and
             DevOps.
           </p>
           <Row>
@@ -142,9 +141,19 @@ function App() {
           <hr></hr>
           <ul className="timeline">
             <li>
+              <h6 className="d-inline-block">PAISANOS SA</h6> 
+              <a href="#" className="float-right">
+                November, 2020 to Present Time
+              </a>
+              <p>
+                Post: Backend Developer <br />
+                Descriotion: Backend Applications Development using NodeJS, Express and NestJS.
+              </p>
+            </li>
+            <li>
               <h6 className="d-inline-block">TELECENTRO SA</h6>
               <a href="#" className="float-right">
-                November, 2017 to Present Time
+                November, 2017 to November, 2020
               </a>
               <p>
                 Post: Implementation Leader <br />
@@ -185,7 +194,7 @@ function App() {
             <li>
               <h6 className="d-inline-block">ENGLISH UPPER INTERMEDIATE B2</h6>
               <a href="#" className="float-right">
-                August 2020 to Present Time
+                August 2020 to November 2020
               </a>
               <p>
                 Intitute Cambridge
@@ -265,14 +274,8 @@ function App() {
             Skills
           </div>
           <hr></hr>
-          <div className="subtitle">Angular</div>
-          <ProgressBar now={80} />
-          <br />
-          <div className="subtitle">React</div>
-          <ProgressBar now={70} />
-          <br />
           <div className="subtitle">NodeJS / Express</div>
-          <ProgressBar now={80} />
+          <ProgressBar now={90} />
           <br />
           <div className="subtitle">MongoDB / Mongoose</div>
           <ProgressBar now={80} />
@@ -280,14 +283,23 @@ function App() {
           <div className="subtitle">SQL / MariaDB</div>
           <ProgressBar now={60} />
           <br />
+          <div className="subtitle">Angular</div>
+          <ProgressBar now={80} />
+          <br />
+          <div className="subtitle">React</div>
+          <ProgressBar now={70} />
+          <br />
           <div className="subtitle">Git</div>
           <ProgressBar now={80} />
           <br />
           <div className="subtitle">Linux Intermediate Management</div>
           <ProgressBar now={60} />
           <br />
+          <div className="subtitle">Bash</div>
+          <ProgressBar now={70} />
+          <br />
           <div className="subtitle">Installation of LAN and WLAN Networks</div>
-          <ProgressBar now={90} />
+          <ProgressBar now={80} />
           <br />
         </Col>
       </Row>
